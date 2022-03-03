@@ -1,1 +1,4 @@
 modules/
+.ide
+meta
+targets
