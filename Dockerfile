@@ -1,4 +1,4 @@
 FROM ubuntu
 RUN apt update
-WORKDIR
+WORKDIR /code
 ADD
